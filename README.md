@@ -12,5 +12,7 @@ Some examples of real-time applications are −
 - **Online Gaming** − Games like Counter Strike, Call of Duty, etc., are also some examples of real-time applications.
 
 
-![image](https://github.com/user-attachments/assets/bae21e44-6e66-4277-9b9f-449bd5d84ead)
+![image](https://github.com/user-attachments/assets/bae21e44-6e66-4277-9b9f-449bd5d84ead)  
+![image](https://github.com/user-attachments/assets/09b8dafb-9ec4-41b0-837c-0a929cc81093)
+
 Other references: https://socket.io/docs/v4/tutorial/introduction
